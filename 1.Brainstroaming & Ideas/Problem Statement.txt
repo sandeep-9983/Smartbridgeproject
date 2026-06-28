@@ -1,0 +1,1 @@
+Develop a comprehensive well-being assessment system that analyzes key socio-economic and health indicators to measure overall human well-being. The system should predict well-being levels using machine learning, identify strengths and development gaps, and provide meaningful insights that support informed decision-making for governments, organizations, and individuals.
